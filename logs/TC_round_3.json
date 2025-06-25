@@ -1,0 +1,95 @@
+[
+    {
+        "agent_id": "Agent1",
+        "round": 3,
+        "module": "TC",
+        "responses": [
+            {
+                "question_index": 1,
+                "question_text": "是否有悉尼歌剧院和埃菲尔铁塔？",
+                "answer": 1.0,
+                "explanation": "图像中清晰展示了悉尼歌剧院和埃菲尔铁塔，尽管它们被抽象和艺术化处理了。"
+            },
+            {
+                "question_index": 2,
+                "question_text": "是否有蓝色的夜空？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的蓝色夜空背景，符合问题描述。"
+            },
+            {
+                "question_index": 3,
+                "question_text": "是否有黄色的星星？",
+                "answer": 1.0,
+                "explanation": "图像中有多个黄色的星星形状物体分布在图像的上部区域。"
+            },
+            {
+                "question_index": 4,
+                "question_text": "是否有放射状的蓝色漩涡？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的放射状蓝色漩涡效果，背景中的光线和色彩分布呈现出从中心向外扩散的效果。"
+            }
+        ]
+    },
+    {
+        "agent_id": "Agent2",
+        "round": 3,
+        "module": "TC",
+        "responses": [
+            {
+                "question_index": 1,
+                "question_text": "是否有悉尼歌剧院和埃菲尔铁塔？",
+                "answer": 1.0,
+                "explanation": "图像中清晰展示了悉尼歌剧院和埃菲尔铁塔，尽管它们被抽象和艺术化处理了。"
+            },
+            {
+                "question_index": 2,
+                "question_text": "是否有蓝色的夜空？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的蓝色夜空背景，符合问题描述。"
+            },
+            {
+                "question_index": 3,
+                "question_text": "是否有黄色的星星？",
+                "answer": 1.0,
+                "explanation": "图像中有多个黄色的星星形状物体分布在图像的上部区域。"
+            },
+            {
+                "question_index": 4,
+                "question_text": "是否有放射状的蓝色漩涡？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的放射状蓝色漩涡效果，背景中的光线和色彩分布呈现出从中心向外扩散的效果。"
+            }
+        ]
+    },
+    {
+        "agent_id": "Agent3",
+        "round": 3,
+        "module": "TC",
+        "responses": [
+            {
+                "question_index": 1,
+                "question_text": "是否有悉尼歌剧院和埃菲尔铁塔？",
+                "answer": 1.0,
+                "explanation": "图像中清晰展示了悉尼歌剧院和埃菲尔铁塔，尽管它们被抽象和艺术化处理了。"
+            },
+            {
+                "question_index": 2,
+                "question_text": "是否有蓝色的夜空？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的蓝色夜空背景，符合问题描述。"
+            },
+            {
+                "question_index": 3,
+                "question_text": "是否有黄色的星星？",
+                "answer": 1.0,
+                "explanation": "图像中有黄色的星星。"
+            },
+            {
+                "question_index": 4,
+                "question_text": "是否有放射状的蓝色漩涡？",
+                "answer": 1.0,
+                "explanation": "图像中有明显的放射状蓝色漩涡效果，背景中的光线和色彩分布呈现出从中心向外扩散的效果。"
+            }
+        ]
+    }
+]
